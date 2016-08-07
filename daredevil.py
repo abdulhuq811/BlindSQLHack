@@ -1,9 +1,5 @@
 #!/usr/bin/python
 
-'''
-__author_name__ = Mohamed Abdul Huq Ismail
-__author_name__ = Sriram Poondi Chinappa
-'''
 import requests
 import sys
 from prettytable import PrettyTable
