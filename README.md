@@ -34,13 +34,11 @@ b. If you saved it as a python file then run it using the following command
   ```
   $./daredevil
   Enter website with absolute url:
-  http://www.everyway-medical.com/products.php?id=2
+  http://testphp.vulnweb.com/listproducts.php?cat=2
   ```
   Let the program run its course till it presents you with options.
 
-## Tested URLs
-  http://www.everyway-medical.com/products.php?id=2
-  
+## Tested URL  
   http://testphp.vulnweb.com/listproducts.php?cat=2
   
 # Authors
